@@ -3,3 +3,5 @@ public class Main {
     System.out.println("Hello World");
   }
 }
+int myNum = 15;
+System.out.println(myNum);
